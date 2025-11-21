@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+
+    <!-- BOOTSTRAP -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- CUSTOM CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="bg-light">
+
+<div class="container mt-5 mb-5">
+    <div class="card shadow-lg p-4 border-0 rounded-4">
+
+        <h2 class="text-center text-primary fw-bold mb-4">Web Development Quiz</h2>
+
+        <div class="d-flex justify-content-between mb-3">
+            <p id="progress" class="fw-bold text-secondary mb-0"></p>
+            <span class="badge bg-danger fs-6" id="count-down">60 Seconds</span>
+        </div>
+
+        <h4 id="questions" class="mb-3 text-dark fw-semibold"></h4>
+
+        <div id="options" class="list-group">
+            <button class="list-group-item list-group-item-action option" id="btn0"></button>
+            <button class="list-group-item list-group-item-action option" id="btn1"></button>
+            <button class="list-group-item list-group-item-action option" id="btn2"></button>
+            <button class="list-group-item list-group-item-action option" id="btn3"></button>
+        </div>
+
+    </div>
+</div>
+
+<footer class="text-center text-dark mt-4">
+    <p class="fw-bold mb-2">_galwhocodes_ • Quiz App © 2025</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
