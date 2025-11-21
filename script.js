@@ -127,7 +127,7 @@ var questions = [
 ];
 
 // TIMER
-var timeleft = 60;
+var timeleft = 120;
 var countDownElement = document.getElementById("count-down");
 
 function startCountDown() {
