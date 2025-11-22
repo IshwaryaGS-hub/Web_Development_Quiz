@@ -6,7 +6,7 @@ It includes a countdown timer of 240 seconds (4 minutes), live score tracking, n
 ## Live Demo
 
 🔗 Deployed on Vercel:
-👉 
+👉 https://web-development-quiz-mocha.vercel.app/
 
 ---- 
 
@@ -71,4 +71,4 @@ No server required.
 -----
 
 ### Developed by
-__galwhocodes__ | Ishwarya | MERN Full Stack Developer.
+__galwhocodes__ | Ishwarya | MERN Full Stack Developer
