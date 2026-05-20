@@ -71,4 +71,4 @@ No server required.
 -----
 
 ### Developed by
-__galwhocodes__ | Ishwarya | MERN Full Stack Developer
+| Ishwarya | MERN Full Stack Developer
